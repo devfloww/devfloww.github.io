@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![my-picture]([https://pbs.twimg.com/profile_images/1833278186072805376/W7FkOjqD.jpg)
+![my-picture](https://pbs.twimg.com/profile_images/1833278186072805376/W7FkOjqD.jpg)
 
 ## $whoami 🧔
 
