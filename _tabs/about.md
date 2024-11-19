@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
-
 ![my-picture](https://avatars.githubusercontent.com/u/108332631?s=400&u=cb0156efa051faa09cd294f4982378f074f46bfe&v=4)
 
 ## $whoami 🧔
