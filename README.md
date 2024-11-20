@@ -2,7 +2,7 @@
 
 ![logo](https://avatars.githubusercontent.com/u/108332631?v=4)
 
-Welcome 👋, to my BLog, and of course my Portfolio website.
+Welcome 👋, to my Blog, and of course my Portfolio website.
 
 Here, I post all about my research findings and discoveries (assignments).
 
